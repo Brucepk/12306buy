@@ -5,6 +5,8 @@
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
+[我的个人技术博客](https://www.pyzhishiquan.com/)
+
 目录
 - 抢票效果
 
