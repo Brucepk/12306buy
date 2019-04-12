@@ -6,11 +6,11 @@
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
 目录
-抢票效果
+- 抢票效果
 
-splinter 库安装导入
+- splinter 库安装导入
 
-准备工作：初始化属性
+- 准备工作：初始化属性
 
 登录功能实现
 
